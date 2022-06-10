@@ -29,5 +29,5 @@ Most of my technical writeups are on my [tech blog](https://cho.sh).
 
 ## ✋ got something to say?
 
-[Email me](https://mailhide.io/e/e6QsZ1nt). Otherwise, I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`. No joke.
+[Email me](https://mailhide.io/e/IXndXpED). Otherwise, I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`. No joke.
 
