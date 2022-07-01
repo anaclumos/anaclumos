@@ -1,1 +1,1 @@
-<a href="https://cho.sh"><h1 align="center"> &rarr;&rarr;&rarr; cho.sh &larr;&larr;&larr; </h1> </a>
+<a href="https://cho.sh"><h1 align="center"> 🌎 cho.sh 🌏 </h1> </a>
