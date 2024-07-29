@@ -2,7 +2,7 @@
 
 <a title="Stats" href="https://wakatime.com/@anaclumos">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@anaclumos/c3fee972-ab0e-44f2-b788-934be0242bc3.svg">
-    <img alt="Stats" src="https://wakatime.com/share/@anaclumos/fa942dc8-f2f0-4e7b-983b-8ebabe2ddc4f.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@anaclumos/f0253068-46c6-47ea-bcf4-3d52577ab603.svg">
+    <img alt="Stats" src="https://wakatime.com/share/@anaclumos/6090d02f-bf23-4917-96f0-9cb5ae6f538c.svg">
   </picture>
 </a>
